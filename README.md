@@ -1,16 +1,78 @@
-## Hi there 👋
+# Bonjour 👋
 
-<!--
-**JiB38/JiB38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **Jean-Baptiste Berthod**, développeur passionné par le développement web et les applications.
 
-Here are some ideas to get you started:
+🎯 Objectif : devenir **Développeur Web / Applications Full Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Grenoble – France
+
+---
+
+# 🚀 Projets
+
+### Portfolio
+Mon portfolio présentant mes projets.
+
+🔗 https://jib38.github.io
+
+---
+
+### Robot Boxeur
+Application Java avec interface JavaFX simulant un combat entre robots.
+
+Technologies :
+- Java
+- JavaFX
+- Programmation Orientée Objet
+
+---
+
+### Veilleuse Android
+Application Android transformant un smartphone en veilleuse avec plusieurs modes.
+
+Technologies :
+- Java
+- Android Studio
+- Material Design
+
+---
+
+### Site Artistes
+Projet de site web pour présenter des artistes et leurs œuvres.
+
+Technologies :
+- HTML
+- CSS
+- JavaScript
+- React
+
+---
+
+# 💻 Compétences
+
+Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+Backend  
+- Node.js (bases)  
+
+Autres  
+- Java  
+- JavaFX  
+- Android  
+
+---
+
+# 📫 Me contacter
+
+Portfolio  
+https://jib38.github.io  
+
+GitHub  
+https://github.com/JiB38  
+
+LinkedIn  
+https://linkedin.com/in/jbberthod
